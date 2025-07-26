@@ -17,6 +17,17 @@ h1 {
   color: #612001;
 }
 
+p {
+  margin: 50px auto;
+  width: 50%;
+  font-family: 'Georgia', serif;
+  font-size: 14px;
+  letter-spacing: 1px;
+  text-align: justify;
+  color: #612001;
+}
+
+
 .bloco {
   border: 3px solid #975e43;
   border-radius: 50px;
