@@ -18,12 +18,12 @@ h1 {
 }
 
 p {
-  margin: 50px auto;
+  margin: 0px auto;
   width: 100%;
   font-family: Ubuntu, sans-serif;
   font-size: 14px;
   letter-spacing: 1px;
-  text-align: justify;
+  text-align: center;
   color: #612001;
 }
 
