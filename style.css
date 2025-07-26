@@ -17,17 +17,6 @@ h1 {
   color: #612001;
 }
 
-p {
-  margin: 0px auto;
-  width: 100%;
-  font-family: Ubuntu, sans-serif;
-  font-size: 14px;
-  letter-spacing: 1px;
-  text-align: center;
-  color: #612001;
-}
-
-
 .bloco {
   border: 3px solid #975e43;
   border-radius: 50px;
