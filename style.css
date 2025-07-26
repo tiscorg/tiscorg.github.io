@@ -19,8 +19,8 @@ h1 {
 
 p {
   margin: 50px auto;
-  width: 50%;
-  font-family: 'Georgia', serif;
+  width: 100%;
+  font-family: Ubuntu, sans-serif;
   font-size: 14px;
   letter-spacing: 1px;
   text-align: justify;
